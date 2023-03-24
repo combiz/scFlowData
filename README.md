@@ -5,7 +5,7 @@ This repo contains supplimentary data file needed to run an analysis using scFlo
 
 ## Contents
 
-Raw data files are stored in inst/extdata: -
+Raw data files are stored in assets: -
 
 ### Folder Organization
 
