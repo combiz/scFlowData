@@ -1,0 +1,49 @@
+EN:
+  - Sulf1
+  - Nxph3
+  - Myl4
+  - Rprm
+  - Cplx3
+  - Igfbp6
+  - Nr4a2
+  - Hs3st2
+IN:
+  - Sp9
+  - Pax6
+MEDIUM_SPINY:
+  - Drd1
+  - Ido1
+MICROGLIA:
+  - P2ry12
+  - Tmem119
+  - Ccr6
+  - Casp8
+  - Ccl4
+  - Tnf
+PVM:
+  - Cd74
+  - Pf4
+  - Cxcl2
+ASTROCYTES:
+  - Cbs
+  - Gfap
+  - Slc7a10
+  - Myoc
+  - Gdf10
+  - Fam107a
+  - Ppp1r3g
+  - Slc6a11
+ENDOTHELIAL:
+  - Igf2
+  - Sema3g
+  - Gadd45a
+  - Ly6c1
+OLIGO:
+  - Klk6
+  - Nkx2-9
+  - Opalin
+  - Tnr
+  - Neu4
+OPC:
+  - Pdgra
+  - C1ql1

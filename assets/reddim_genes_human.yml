@@ -1,0 +1,41 @@
+EN:
+  - RBFOX3
+  - CUX2
+  - SATB2
+  - RORB
+IN:
+  - GAD1
+  - GAD2
+MICROGLIA:
+  - P2RY12
+  - CD74
+  - CD68
+  - FTL
+  - APOE
+  - SPP1
+  - CSF1R
+  - DOCK8
+PVM:
+  - CD163
+  - F13A1
+ASTROCYTES:
+  - AQP4
+  - GFAP
+  - SLC1A2
+  - SLC14A1
+ENDOTHELIAL:
+  - FLT1
+  - CLDN5
+  - VWF
+  - PTPRC
+  - EBF1
+  - COL1A1
+  - COL1A2
+OLIGO:
+  - MBP
+  - MOBP
+  - PLP1
+OPC:
+  - PDGFRA
+  - VCAN
+  - SMOC1
